@@ -18,10 +18,7 @@ export default function Home() {
         </Link>
 
         <div>
-          <a href="https://github.com/opeoyeleke/astro-player">
-            <img src={github} alt="github logo" />
-            Github
-          </a>
+          
         </div>
       </div>
       <div className="home-right">
